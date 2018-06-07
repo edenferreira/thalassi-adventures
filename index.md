@@ -3,15 +3,15 @@
 ## Personagens
 
 ### Baki Cortez
-Player: Renan
+#### Renan
 
 ### John Mcklein
-Player: Eleusis
+#### Eleusis
 
 ### Ranfark Dragar
-Player: Thales
+#### Thales
 
 ### Takezo
-Player: Bidu
+#### Bidu
 
 ### Akotirene - O Barco
