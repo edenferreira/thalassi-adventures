@@ -14,4 +14,4 @@ Player: Thales
 ### Takezo
 Player: Bidu
 
-## Akotirene - O Barco
+### Akotirene - O Barco
